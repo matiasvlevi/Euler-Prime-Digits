@@ -16,7 +16,7 @@ function find_consecutive_primes_in(value, nb) {
             consecutives.push(digit);
         } else {
             if (consecutives.length != nb) {
-                //console.log(consecutives);
+                //Clear array if found a non-prime & the length is not the desired one
                 consecutives = [];
             }
         }
