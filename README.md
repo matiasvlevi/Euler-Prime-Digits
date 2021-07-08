@@ -18,11 +18,12 @@ npm run start [Number of consecutives]
 ### Example
 
 ```
-$ npm run start 16
+$ npm run start 12
 
 > Euler-Prime-Numbers@1.0.0 start
-> node index.js "16"
+> node index.js "12"
 
-First 16 consecutive prime numbers in e:  3772332573523753732
-Found at 209042th decimal place
+First 12 consecutive prime numbers in e:  355252327572
+Found at 27448th decimal place
+
 ```
